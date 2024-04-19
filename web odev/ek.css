@@ -1,0 +1,80 @@
+.endış{
+    background-color: azure;
+    width: 800px;
+    height: 725px;
+    border: 2px solid black;
+}
+.linkbaş{
+    background-color: black;
+    width: 775px;
+    height: 45px;
+    border: 2px solid gray;
+    margin: 10px;
+}
+.banner{
+    background-color: orange;
+    width: 775px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.banneriç{
+    background-color: orange;
+    width: 150px;
+    height: 75px;
+    border: 2px solid black;
+    clear: left;
+    float: left;
+    margin: 10px;
+    margin-left: 50px;
+}
+.div1sağ{
+    background-color: lightblue;
+    width: 375px;
+    height: 250px;
+    margin: 10px;
+    float: left;
+    border: 2px solid black;
+}
+.div1sol{
+    background-color: lightblue;
+    width: 375px;
+    height: 250px;
+    margin: 10px;
+    border: 2px solid black;
+    float: right;
+}
+.div2alt{
+    background-color: lightblue;
+    width: 775px;
+    height: 120px;
+    margin: 10px;
+    clear: right;
+    border: 2px solid black;
+}
+.footer{
+    background-color: gray;
+    width: 775px;
+    height: 75px;
+    margin: 10px;
+    border: 2px solid black;
+}
+div a{
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+    padding: 20px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+div img{
+    width: 150px;
+    height: 75px;
+}
+div a:hover{
+    color: red;
+}
+div a:active{
+    color: green;
+}
